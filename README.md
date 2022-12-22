@@ -1,2 +1,2 @@
-# project-data
-The repo will be holding data and projects 
+# Projects 
+The following folders and files will be files that will be used for EDA.
